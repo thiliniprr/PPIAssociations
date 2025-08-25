@@ -19,7 +19,6 @@ This repository contains two main scripts for biomedical NLP and literature enri
   - [Requirements](#requirements-1)
   - [Usage](#usage-1)
   - [Output](#output-1)
-- [License](#license)
 
 
 ---
@@ -105,14 +104,8 @@ pip install biopython requests tqdm pandas
 
 ---
 
-## License
-
-This work is distributed under the MIT License. See `LICENSE` for details.
-
----
-
 **Contact**:  
-If you have questions or suggestions, please open an issue or contact [pereran](mailto:your.email@domain).
+If you have questions or suggestions, please open an issue or contact nadeesha.meegahage@gmail.com.
 
 ---
 
