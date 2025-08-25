@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Aug 25 11:35:05 2025
-
 @author: pereran
 """
 
@@ -121,3 +119,4 @@ for i, row in df.head(TOP_N).iterrows():
     print(f"Citations: {row['citations']}  Influential: {row['infl_citations']}  Journal Refs: {row['journal_refs']} Altmetric: {row['altmetric']} OA: {row['open_access']}")
     print(f"Score: {row['quality_score']:.3f}   PMID: {row['pmid']}")
     print("Abstract:", row['abstract'][:400], "\n---\n")
+
